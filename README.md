@@ -27,5 +27,6 @@ localhost:3000/ranking
 Adicionar as duas linhas
 
 SERVER_PORT= 5000
+
 DATABASE_URL=mongodb://localhost/scale
 
