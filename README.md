@@ -17,10 +17,15 @@ URL: localhost:5000
 
 # ROTAS
 
-(rota pra iniciar o jogo)
+(Rota pra iniciar o jogo)
 localhost:3000/
 
-(rota para visualizar o ranking)
+(Rota para visualizar o ranking)
 localhost:3000/ranking
 
+OBS: Criar arquivo .env na pasta "backend"
+Adicionar as duas linhas
+
+SERVER_PORT= 5000
+DATABASE_URL=mongodb://localhost/scale
 
