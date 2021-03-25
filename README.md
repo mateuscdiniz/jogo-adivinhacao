@@ -23,7 +23,7 @@ localhost:3000/
 (Rota para visualizar o ranking)
 localhost:3000/ranking
 
-OBS: Criar arquivo .env na pasta "backend"
+ # OBS: Criar arquivo .env na pasta "backend"
 Adicionar as duas linhas
 
 SERVER_PORT= 5000
