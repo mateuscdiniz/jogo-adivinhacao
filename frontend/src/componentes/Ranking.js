@@ -11,7 +11,7 @@ function Ranking() {
   }, []);
 
   jogador.sort(function (a, b) {
-    return a.tentativas - b.tentativas;
+    return a.tempo - b.tempo;
   });
 
   const renderJogadores = (jogador) => {
