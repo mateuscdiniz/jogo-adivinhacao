@@ -18,9 +18,11 @@ URL: localhost:5000
 # ROTAS
 
 (Rota pra iniciar o jogo)
+
 localhost:3000/
 
 (Rota para visualizar o ranking)
+
 localhost:3000/ranking
 
  # OBS: Criar arquivo .env na pasta "backend"
