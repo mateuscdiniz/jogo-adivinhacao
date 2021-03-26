@@ -30,3 +30,7 @@ SERVER_PORT= 5000
 
 DATABASE_URL=mongodb://localhost/scale
 
+# OBS 2: 
+Depois que digitar seu nome, clicar em "start" para começar o cronometro e após isso poderá digitar os palpites
+(Após acertar o número gerado, o cronômetro irá parar sozinho e enviara pro banco de dados o tempo exato de quando digitou o número correto)
+
