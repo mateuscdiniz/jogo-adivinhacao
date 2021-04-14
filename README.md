@@ -37,5 +37,3 @@ Depois que digitar seu nome, clicar em "start" para começar o cronometro e apó
 
 (Após acertar o número gerado, o cronômetro irá parar sozinho e enviara pro banco de dados o tempo exato de quando digitou o número correto)
 
-# OBS 3:
-Fiz em português pois o desafio também estava.
